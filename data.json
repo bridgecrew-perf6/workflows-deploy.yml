@@ -1,0 +1,11 @@
+const data = [
+  {
+    name: peter,
+    sex: female,
+    age: 23
+  },
+  {
+    name: ana,
+    sex: male,
+    age: 25
+]
